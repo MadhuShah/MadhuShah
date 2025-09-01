@@ -28,7 +28,7 @@ I love to learn, build, and collaborate!
 
 ## 💼 Experience
 
-### 🌟 Front-End Developer @ Cadar Gate Technology _(Jan 2025 – Present)_
+### 🌟 Front-End Developer @ Cedar Gate Technology _(Jan 2025 – Present)_
 
 - Developed user interfaces using HTML, CSS, and JavaScript  
 - Made websites responsive across devices  
